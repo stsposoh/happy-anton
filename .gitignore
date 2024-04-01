@@ -12,7 +12,7 @@ yarn-error.log*
 *.njsproj
 *.sln
 
-dist/
+#dist/
 # app/assets/html/404.html
 # app/assets/html/account.html
 # app/assets/html/bestsellers.html
